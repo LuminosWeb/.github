@@ -12,7 +12,7 @@ Notre objectif est de partager des morceaux de code utiles, des bibliothèques e
 
 ## 🔗 Ressources
 
-- 🌍 [Site officiel](https://luminosweb.com)  
+- 🌍 [www.luminosweb.com](https://luminosweb.com)  
 - 📝 Documentation (à venir)  
 - 💬 Discussions & contributions (prochainement ouvertes)  
 
